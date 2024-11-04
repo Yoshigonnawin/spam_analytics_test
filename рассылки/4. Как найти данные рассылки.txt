@@ -1,3 +1,3 @@
 Subject содержат либо 
     a)  email@email Rolex.com For You -Два числа% (RE: ^Subject: [a-zA-Z0-9._%+-]+@[a-zA-Z0-9_]+.[a-z]{2,} Rolex.com For You -\d{1,2}%$ )
-    b)  В одном предложении должны быть CIALIS,Pills, FREE, VIAGRA (Re: ^Subject:(?:.*CIALIS \d+ Pills)|(?:.*FREE \d+ VIAGRA) )
+    b)  В одном предложении должны быть CIALIS,Pills, FREE, VIAGRA (Re: ^Subject:((?:.*CIALIS \d+ Pills)|(?:.*FREE \d+ VIAGRA)){2} )
