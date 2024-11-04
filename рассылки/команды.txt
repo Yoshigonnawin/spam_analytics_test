@@ -14,4 +14,4 @@
         cp "$file" ./рассылки/viagra_cialis/
     done
 9) grep -r -h 'Subject:.*$'
-10) grep -r -h -E -a 'http:\/\/[^"'\''\s]+' .
+10) grep -r -h -E -a 'https?:\/\/[^"'\''\s]+' . | awk -F '"' '{for (i=1; i<=NF; i++) if ($i ~ /^https?:\/\/[^"'\''\s]+$/) print $i}'
