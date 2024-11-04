@@ -1,0 +1,54 @@
+1) От кого и кому было отправлено сообщение? 
+    - Delivered-To: kate1992@gmail.com 
+    - From: Arseniy Ivanov <messages-noreply@linkedin.com>
+
+    - <test-2009@yandex.ru> получит сообщение если оно не дойдет до kate1992@gmail.com, так же он выполняет функцию прокси (участвует в пути пересылки) 
+
+2) Основной получатель(Delivered-To:) - kate1992@gmail.com 
+   Участник пересылки(To:): - test-2009@yandex.ru?
+
+
+3)
+    7- Received: by 10.27.15.212 with SMTP id 203csp366244wlp;
+    Mon, 18 May 2015 13:32:06 -0700 (PDT) 18 May 2015 23:32:06 +3(MSK)
+
+    6- X-Received: by 10.112.136.166 with SMTP id qb6mr3809098lbb.54.1431981126716;
+    Mon, 18 May 2015 13:32:06 -0700 (PDT) 18 May 2015 23:32:06 +3(MSK)
+    Return-Path: <test-2009@yandex.ru>
+
+    5- Received: from forward2h.mail.yandex.net (forward2h.mail.yandex.net. [2a02:6b8:0:f05::2])
+    by mx.google.com with ESMTPS id dy9si7389450lac.58.2015.05.18.13.32.06
+    for <kate1992@gmail.com>
+    (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+    Mon, 18 May 2015 13:32:06 -0700 (PDT) (13+7+3 = 23) 18 May 2015 23:32:06 +3(MSK)
+
+    4- Received-SPF: pass (google.com: domain of test-2009@yandex.ru designates 2a02:6b8:0:f05::2 as
+    permitted sender) client-ip=2a02:6b8:0:f05::2;
+    Authentication-Results: mx.google.com;
+    spf=pass (google.com: domain of test-2009@yandex.ru designates 2a02:6b8:0:f05::2 as permitted
+    sender) smtp.mail=test-2009@yandex.ru;
+    dkim=pass header.i=@linkedin.com;
+    dmarc=pass (p=REJECT dis=NONE) header.from=linkedin.com (проверка на подлинность домена от отправляющего сервера)
+
+    3- Received: from mxfront8h.mail.yandex.net (mxfront8h.mail.yandex.net [84.201.186.12]) by
+    forward2h.mail.yandex.net (Yandex) with ESMTP id 107FF701FA1 for <kate1992@gmail.com>; Mon,
+    18 May 2015 23:32:05 +0300 (MSK)
+
+    2- Received: from mxfront8h.mail.yandex.net ([127.0.0.1]) by mxfront8h.mail.yandex.net with LMTP id
+    GnMclzRg for <test-2009@yandex.ru>; Mon, 18 May 2015 23:32:05 +0300
+
+    1- Received: from maile-be.linkedin.com (maile-be.linkedin.com [2620:109:c006:104::205]) by
+    mxfront8h.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id IOFXcNxOvX-W4O0UlGU; Mon, 18 May
+    2015 23:32:05 +0300 (using TLSv1.2 with cipher AES128-GCM-SHA256 (128/128 bits)) (Client
+    certificate not present)
+    Authentication-Results: mxfront8h.mail.yandex.net; spf=pass (mxfront8h.mail.yandex.net: domain of
+    bounce.linkedin.com designates 2620:109:c006:104::205 as permitted sender)
+    smtp.mail=m6qa2mssamgdpi587ivlhdfjlbovkj0oh3ix3z64escuar1sps174mr@bounce.linkedin.com;
+    dkim=pass header.i=@linkedin.com
+    DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com; s=proddkim1024;
+    t=1431981124; bh=vxGE/AijQ7o7t8VTTn2R1LxjphKflanE4odfPdTp4EI=;
+    h=From:Subject:MIMEVersion:Content-Type:To:Date:X-LinkedIn-Class:
+    X-LinkedIn-Template:X-LinkedIn-fbl;
+    b=DPw9oUYON4fX+ImH6b/3E6I2F382sxAxe8gU49TjlaLS7MQnuWEBkrr6MkCbPyuIf
+    f025mONLddRjXBePlebgkfPOKWU7BtGNMf4+HFyOwdxXmuct9LotKKM47Zue2Y/qaZ
+    Fthx8L8lneRwDky3hVIW0sYV3hBAnsLsUylHeEv0=
