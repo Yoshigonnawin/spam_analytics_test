@@ -1,4 +1,4 @@
-1) wsl -u root
+1) wsl -u root или wsl -d ubuntu 
 2) ls /рассылки
 3) mkdir ./рассылки/viagra_cialis/
 4) mkdir ./рассылки/rolex_discount/
