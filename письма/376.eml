@@ -1,0 +1,62 @@
+Received: from abusef2.my.com (unknown [185.30.176.193])
+	by sget4.kaspersky-labs.com (Postfix) with ESMTP id DC3E1324DDE
+	for <my.com@sget.kaspersky.com>; Thu, 21 Jan 2016 11:03:33 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=my.com; s=mail;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Subject:Message-ID:From:Date:To; bh=MokVcbkSeodvrdOLLD6ZUQfoqXrrqnJtpqEJAbg+oSs=;
+	b=WqsVbqQ2cVNOX/42xhr14kencOVIYHdZcMZR9uh0b/B5fFLWAsDvZwUk7YrFczy1POXqfuFfkgjtmV/a5siqpP/pX1zFksvYcPXOK9DAwphJ8tXtTlc0r95CsvwUcInJdmQyJISsJCUi7K6zdsuzAnIKCt3KAKVVCNzXRfRUb+U=;
+Received: from [0.0.0.0] (ident=root)
+	by abusef2.my.com with local (envelope-from <spamabuse.noreply@corp.mail.ru>)
+	id 1aMAD3-0005aK-Rs
+	for my.com@sget.kaspersky.com; Thu, 21 Jan 2016 11:03:13 +0300
+Delivered-To: box@qrepublik.ru@external
+Delivered-To: box@qrepublik.ru
+Received: from mail.qrepublik.ru
+	by 185.30.177.83 with IMAP4 (i;1885:1)
+	Mon, 18 Jan 2016 11:47:21 +0000
+Received: from relay1.hosting.reg.ru ([194.58.104.14])
+	by server96.hosting.reg.ru with esmtp (Exim 4.72)
+	(envelope-from <majoredhn256@bk.ru>)
+	id 1aL8HI-00011g-9n
+	for box@qrepublik.ru; Mon, 18 Jan 2016 14:47:20 +0300
+Received: from bba190229.alshamil.net.ae (bba190229.alshamil.net.ae [217.165.84.237])
+	by relay1.hosting.reg.ru (Postfix) with ESMTP id 416041690983
+	for <box@qrepublik.ru>; Mon, 18 Jan 2016 14:47:17 +0300 (MSK)
+To: <box@qrepublik.ru>
+Date: Mon, 17 Jan 2016 15:43:17 +0400
+From: =?koi8-r?B?5MHOycnMIPTS1cbBzs/X?= <nosierbrc@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <9806470.20160117154317@bk.ru>
+Subject: =?koi8-r?B?8sXNz87UIMkgz8LTzNXWydfBzsnFIM/Sx9TFyM7Jy8kgySDE0i4g1Q==?=	=?koi8-r?B?08zVx8kg6fQtwdXU08/S08nOx8Eu?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=koi8-r
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.5 required=7.5 tests=DATE_IN_PAST_24_48,
+	FREEMAIL_FROM,UNPARSEABLE_RELAY,XPRIO autolearn=disabled version=3.3.2
+X-Spam-Level: *
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	relay1.hosting.reg.ru
+X-Mru-Rpop: 1
+X-Ipop: 4264813
+X-Complaint-FSP: 1001574305
+X-Complaint-ID: 1001574305 0
+X-Complaint-TS: 1453363393
+X-Complaint-Age: 3
+
+=E4=CF=C2=D2=D9=CA =C4=C5=CE=D8 =CD=C5=CE=D1 =DA=CF=D7=D5=D4 =E4=C1=CE=C9=
+=C9=CC. =F1 =D2=C1=C2=CF=D4=C1=C0 =D3=C9=D3=D4=C5=CD=CE=D9=CD =C1=C4=CD=
+=C9=CE=C9=D3=D4=D2=C1=D4=CF=D2=CF=CD =C9 =C8=CF=DE=D5 =D0=D2=C5=C4=CC=CF=
+=D6=C9=D4=D8 =F7=C1=CD =D4=C1=CB=C9=C5 =D5=D3=CC=D5=C7=C9:
+- =CF=D4=D2=C5=CD=CF=CE=D4=C9=D2=D5=C0 =D3=D4=C1=D2=D5=C0 =CF=D2=C7=D4=C5=
+=C8=CE=C9=CB=D5
+- =D0=D2=C9 =CE=C5=CF=C2=C8=CF=C4=C9=CD=CF=D3=D4=C9 =D0=D2=CF=D7=C5=C4=D5=
+ =D5=C4=C1=CC=C5=CE=CE=CF=C5 =C5=C5 =CF=C2=D3=CC=D5=D6=C9=D7=C1=CE=C9=C5
+- =D3=CD=CF=C7=D5 =DA=C1=CE=D1=D4=D8=D3=D1 =C4=CC=D1 =F7=C1=D3 =C1=C4=CD=
+=C9=CE=C9=D3=D4=D2=C9=D2=CF=D7=C1=CE=C9=C5=CD =D7 =C9=CE=D4=C5=D2=CE=C5=
+=D4=C5
+- =D3=CD=CF=C7=D5 =CE=C1=D5=DE=C9=D4=D8 =C9 =F7=C1=D3 =C9 =F7=C1=DB=C9=C8=
+ =D3=CF=D4=D2=D5=C4=CE=C9=CB=CF=D7 =CF=D3=CE=CF=D7=CE=D9=CD =D0=D2=C9=C5=
+=CD=C1=CD =D2=C1=C2=CF=D4=D9 =DA=C1 =CB=CF=CD=D0=D8=C0=D4=C5=D2=CF=CD.
+
+=EF=D0=C5=D2=C1=D4=C9=D7=CE=CF  =D3=CD=CF=C7=D5 =C4=CF=C2=D2=C1=D4=D8=D3=
+=D1 =D7 =CC=C0=C2=CF=CA =D2=C1=CA=CF=CE =ED=CF=D3=CB=D7=D9. =F7=D9=C5=C4=
+=D5 =D3=D2=C1=DA=D5 =D0=CF=D3=CC=C5 =F7=C1=DB=C5=C7=CF =DA=D7=CF=CE=CB=C1=

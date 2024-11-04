@@ -1,0 +1,190 @@
+Received: from abusef4.my.com (unknown [185.30.177.30])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by sget2.kaspersky-labs.com (Postfix) with ESMTPS id 39D3F87A94E90
+	for <my.com@sget.kaspersky.com>; Tue, 26 Apr 2016 00:50:47 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=my.com; s=mail;
+	h=Content-Type:MIME-Version:Subject:Message-ID:To:From:Date; bh=FcQyznfYQJsa6OPLvTAgPOGmdv7shZIyqkrcqlk0QhA=;
+	b=mXbn+SVYnK8GkDkxRVIi4O3jIYJ32tz4Bm9w2lAyCbHRQiA+SmCV2J2PsrK8QHZ8+stjhmheNEpZYj9PfAFHO+XOVyrC6KfLthaAaHpiPtBvvfiR4I6YSKDpugBs5GcjSlJbE38CUw8jE1zDrif7v0NtJ1ORTEQ/fyXykgJo9Og=;
+Received: from [0.0.0.0] (ident=root)
+	by abusef4.my.com with local (envelope-from <spamabuse.noreply@corp.mail.ru>)
+	id 1auoP0-0004eS-R4
+	for my.com@sget.kaspersky.com; Tue, 26 Apr 2016 00:50:46 +0300
+Delivered-To: bmossman5@charter.net@external
+Delivered-To: bmossman5@charter.net
+Received: from mobile.charter.net
+	by 185.30.176.185 with IMAP4 (i;140188:1)
+	Mon, 25 Apr 2016 21:40:35 +0000
+Received: from impin005 ([68.114.189.29])
+          by mtain005.msg.strl.va.charter.net
+          (InterMail vM.9.00.021.00 201-2473-182) with ESMTP
+          id <20160425214031.QWCH7224.mtain005.msg.strl.va.charter.net@impin005>
+          for <bmossman5@charter.net>; Mon, 25 Apr 2016 16:40:31 -0500
+Received: from mxdalpa03i.wellsfargo.com ([151.151.103.199])
+	by impin005 with charter.net
+	id mlgX1s00M4J8D3K01lgX82; Mon, 25 Apr 2016 16:40:31 -0500
+X-Chzlrs: ??
+X-Authority-Analysis: v=2.1 cv=fcIjyigF c=1 sm=1 tr=0 b=1
+ a=tFjupsarkkcSYKMqj3WEkg==:117 a=tFjupsarkkcSYKMqj3WEkg==:17
+ a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=kziv93cY1bsA:10
+ a=cTDYqaVPAAAA:8 a=nUyGBGS1B5C2jUARyD8A:9 a=wPNLvfGTeEIA:10 a=n1nTdgYaJm0A:10
+ a=SSmOFEACAAAA:8 a=fhDuYb5WyyCvgr14-JsA:9 a=2lTfzLyCeIi19_Z4:21
+ a=_W_S_7VecoQA:10 awl=host:1
+Received: from az2-bebe-ilb-al.wellsfargo.com (az2-dlme911-lb.wellsfargo.com [170.43.203.117])
+	by mxdalpa03i.wellsfargo.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.3.1) with ESMTP id u3PLeUqr031900
+	for <bmossman5@charter.net>; Mon, 25 Apr 2016 21:40:30 GMT
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=notify.wellsfargo.com;
+	s=2011-05-wfb; t=1461620430;
+	bh=ccgJ/n2uqVPnNm65j91o+gbrsvT6PbEVF5FfGfsumS4=;
+	h=From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	b=mygg8FgzJfGahljO5JP3q/lEEJFxc9icUT3VOSQxSovDBkysIR89eMg1fX4BJI/Y8
+	 QTZkYWxN+uEsxn3jBv2mmrqqwZ4Y+0nAKojSy+7n8gufLpMrutNUewGmHvJ6c6CnBR
+	 HqioBa9JZ1Owmts9vP1ZyfPjwpyCWzX670qKLsFw=
+Date: Mon, 25 Apr 2016 21:40:30 GMT
+From: Wells Fargo Online <alerts@notify.wellsfargo.com>
+To: bmossman5@charter.net
+Message-ID: <392408891.504569.1461620430887.JavaMail.app@az2-bebe-ilb-al>
+Subject: Wells Fargo Online access has been suspended
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_504566_385736308.1461620430885"
+UOW_ID: c8c193b8-f1c1-462a-894c-c8fa6faf7c48||8155091542
+X-Priority: 1
+X-Mru-Rpop: 1
+X-Ipop: 9673488
+X-Complaint-FSP: 1007371119
+X-Complaint-ID: 1007371119 0
+X-Complaint-TS: 1461621046
+X-Complaint-Age: 0
+
+------=_Part_504566_385736308.1461620430885
+Content-Type: multipart/related; 
+	boundary="----=_Part_504567_1964481910.1461620430885"
+
+------=_Part_504567_1964481910.1461620430885
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_504568_1185119488.1461620430887"
+
+------=_Part_504568_1185119488.1461620430887
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+What is happening
+
+Account security is a top priority for Wells Fargo. As a safety measure, we have suspended your access to Wells Fargo Online because we detected a possible unauthorized attempt to sign on to your account.
+
+What this means for you
+
+To regain access, all you need to do is reset your password, if you have not done so already. Please also consider changing your username for added protection.
+
+What you can do
+
+Reset your password now:
+* Go to the wellsfargo.com home page and select Forgot Password/Username? below the sign-on box.
+* Select My password has been disabled and follow the instructions to reset your password.
+
+Change your username:
+* Sign on from the wellsfargo.com home page and select Change Username.
+* Follow the instructions to make your update.
+
+If you have any questions after trying to reset your password or change your username, please call us at 1-800-956-4442.
+
+Thank you. We appreciate your business.
+
+Wells Fargo Online Customer Service					
+
+
+=========================
+Please do not reply to this email directly. To ensure a prompt response, sign on to wellsfargo.com/questions to send a secure email.
+
+c8c193b8-f1c1-462a-894c-c8fa6faf7c48  
+------=_Part_504568_1185119488.1461620430887
+Content-Type: text/html;charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+ =20
+  <html xml:lang=3D"en" lang=3D"en"><base href=3D"https://static.wellsfargo=
+..com/messagecenter/static/"/><div id=3D"container" style=3D"margin:0px 0px =
+0px 0px;"><body style=3D"MARGIN: 0px 0px 0px 0px;"><table style=3D"width:60=
+0px;border-top:4px solid #dddece;border-bottom:1px solid #999" cellpadding=
+=3D"0" cellspacing=3D"0" xmlns:xhtml=3D"http://www.w3.org/1999/xhtml"><tr><=
+td style=3D"width:62px"><div align=3D"center" id=3D"c26img" style=3D"margin=
+-bottom: 15px;margin-left: 10px; text-align: center"><img id=3D"wflogo" src=
+=3D"https://static.wellsfargo.com/messagecenter/static/images/wf_logo.gif" =
+border=3D"0" alt=3D"Wells Fargo"/></div></td><td style=3D"padding-right:5px=
+;text-align:right;vertical-align:top;font-family:arial,helvetica,sans-serif=
+;font-size:12px"><a href=3D"https://www.wellsfargo.com" style=3D"font-size:=
+12px;font-family:arial,helvetica,sans-serif;color:#336699"><strong>wellsfar=
+go.com</strong></a></td></tr></table><table style=3D"width:600px;font-size:=
+12px" id=3D"layout" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"font-size:12px;font-family:arial,helvetica,sans-serif;color:#000=
+000"><div style=3D"margin-bottom:15px;margin-left:0px"><h1 xmlns:xhtml=3D"h=
+ttp://www.w3.org/1999/xhtml" style=3D"margin:21px 0px 23px 10px;font-size:1=
+9px;font-family:arial,helvetica,sans-serif;">
+              Please reset your password to restore access
+            </h1><div xmlns:xhtml=3D"http://www.w3.org/1999/xhtml" id=3D"c1=
+1text" style=3D"margin: 0 0 15px 10px;font-family:arial,helvetica,sans-seri=
+f;;font-size:12px">
+<strong>What is happening</strong>
+<br/>
+Account security is a top priority for Wells Fargo. As a safety measure, we=
+ have suspended your access to <em>Wells Fargo Online</em><sup><font size=
+=3D"3">&reg;</font></sup> because we detected a possible unauthorized attem=
+pt to sign on to your account.</div><div xmlns:xhtml=3D"http://www.w3.org/1=
+999/xhtml" id=3D"c11text" style=3D"margin: 0 0 15px 10px;font-family:arial,=
+helvetica,sans-serif;;font-size:12px">
+              <strong>What this means for you</strong>
+<br/>
+To regain access, all you need to do is reset your password, if you have no=
+t done so already. Please also consider changing your username for added pr=
+otection.</div><div xmlns:xhtml=3D"http://www.w3.org/1999/xhtml" id=3D"c11t=
+ext" style=3D"margin: 0 0 15px 10px;font-family:arial,helvetica,sans-serif;=
+;font-size:12px">
+              <strong>What you can do</strong>
+<br/>
+Reset your password now:
+<ul>
+<li>Go to the <strong>wellsfargo.com</strong> home page and select <strong>=
+Forgot Password/Username?</strong> below the sign-on box.</li>
+<li>Select <strong>My password</strong> <strong>has been disabled</strong> =
+and follow the instructions to reset your password.</li>
+</ul></div><div xmlns:xhtml=3D"http://www.w3.org/1999/xhtml" id=3D"c11text"=
+ style=3D"margin: 0 0 15px 10px;font-family:arial,helvetica,sans-serif;;fon=
+t-size:12px">Change your username:
+<ul>
+<li>Sign on from <strong>wellsfargo.com</strong> and select <strong>Change =
+Username</strong>.</li>
+<li>Follow the instructions to make your update.</li>
+</ul></div><div xmlns:xhtml=3D"http://www.w3.org/1999/xhtml" id=3D"c11text"=
+ style=3D"margin: 0 0 15px 10px;font-family:arial,helvetica,sans-serif;;fon=
+t-size:12px">If you have any questions after trying to reset your password =
+or change your username, please call us at 1-800-956-4442.
+</div><div xmlns:xhtml=3D"http://www.w3.org/1999/xhtml" id=3D"c11text" styl=
+e=3D"margin: 0 0 15px 10px;font-family:arial,helvetica,sans-serif;;font-siz=
+e:12px">Thank you. We appreciate your business.</div><div xmlns:xhtml=3D"ht=
+tp://www.w3.org/1999/xhtml" id=3D"c11text" style=3D"margin: 0 0 15px 10px;f=
+ont-family:arial,helvetica,sans-serif;;font-size:12px">Wells Fargo Online C=
+ustomer Service</div></div><div xmlns:xhtml=3D"http://www.w3.org/1999/xhtml=
+" id=3D"wfFooter" style=3D"margin:16px 0 12px 0; padding:3px 0 3px 10px;bac=
+kground-color:#f7f8f3;border-top:1px solid #b3b2b2;border-bottom:1px solid =
+#b3b2b2;vertical-align:top"><a href=3D"https://www.wellsfargo.com" style=3D=
+"font-size:12px;font-family:arial,helvetica,sans-serif;color:#336699"><stro=
+ng>wellsfargo.com</strong></a> | <a href=3D"https://www.wellsfargo.com/priv=
+acy_security/fraud" style=3D"font-size:12px;font-family:arial,helvetica,san=
+s-serif;color:#336699">Fraud Information Center</a></div><div xmlns:xhtml=
+=3D"http://www.w3.org/1999/xhtml" id=3D"c26" style=3D"padding-left: 10px; f=
+ont-size: 11px; margin-bottom: 15px; color: #666">
+              <strong>Please do not reply to this automated email.</strong>=
+ To ensure a prompt response, sign on to send a secure email.</div><div id=
+=3D"c26" style=3D"padding-left: 10px; font-size: 11px; margin-bottom: 15px;=
+ color: #666" xmlns:xhtml=3D"http://www.w3.org/1999/xhtml">c8c193b8-f1c1-46=
+2a-894c-c8fa6faf7c48&#160;&#160;</div></td></tr></table><img src=3D"https:/=
+/ort.wellsfargo.com/openratetracking/alertsemail?uow_id=3Dc8c193b8-f1c1-462=
+a-894c-c8fa6faf7c48" height=3D"1" width=3D"1"/></body></div></html>
+
+------=_Part_504568_1185119488.1461620430887--
+
+------=_Part_504567_1964481910.1461620430885--
+
+------=_Part_504566_385736308.1461620430885--

