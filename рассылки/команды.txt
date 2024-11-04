@@ -1,1 +1,17 @@
-1) /mnt/
+1) wsl -u root
+2) ls /рассылки
+3) mkdir ./рассылки/viagra_cialis/
+4) mkdir ./рассылки/rolex_discount/
+5) grep -r -l 'Rolex' ./рассылки/*.eml
+
+6)  for file in $(grep -r -l 'Rolex' ./рассылки/*.eml); 
+    do
+        cp "$file" ./рассылки/rolex_discount/
+    done
+7) grep -r -l 'VIAGRA' ./рассылки/*.eml
+8) for file in $(grep -r -l 'VIAGRA' ./рассылки/*.eml); 
+    do
+        cp "$file" ./рассылки/viagra_cialis/
+    done
+9) grep -r -h 'Subject:.*$'
+10) grep -r -h -E -a 'http:\/\/[^"'\''\s]+' .
