@@ -1,0 +1,5 @@
+a) (?i)(are you )?looking for a (soulmate|bride|wife|girlfriend)?\? maybe i'm the (woman|lady|girl) that (interest you|will be of interest to you)\?
+a#) в оригинале в конце стоит ? вместо\?, но в таком случае вопрос оборвется на will be of interest to you или that, а знак ? будет означать 0 и 1 вхождение группы
+
+b) (\w+/\w+)$|^[^\D]{1,3}_days_of_static/(\w+)
+c) (\w+\.){1,3}narod\.ru/index\.(exe|scr)?$
